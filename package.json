@@ -11,7 +11,7 @@
   "author": "Pramod Mali",
   "license": "ISC",
   "dependencies": {
-    "next": "^7.0.1",
+    "next": "^13.0.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2"
   }
